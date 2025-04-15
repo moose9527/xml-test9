@@ -1,19 +1,19 @@
 <products>
  <product>
  <!-- [*] Your unique category ID, please give the smallest products group you have, but not brands -->
- <category-id>5042</category-id>
+ <category-id>1268</category-id>
  <!-- [*] Your category name (better with full path, eg. Books/Novels/Jo Nesbo/) MANDATORY -->
- <category-name><Phone cases></category-name>
+ <category-name><![CDATA[Novels]]></category-name>
  <!-- [#] Product title LT language -->
- <title><Telefono dėklas, skirtas „iPhone X Xs“ smūgiams atsparus „Defender Cover Protector“.></title>
+ <title><![CDATA[Product title LT language]]></title>
  <!-- [#] Product title in RU language -->
  <title-ru><![CDATA[Product title in RU language]]></title-ru>
  <!-- [#] Product title in LV language -->
- <title-lv><Tālruņa maciņš priekš Iphone X Xs triecienizturīgs Defender vāciņa aizsargs></title-lv>
+ <title-lv><![CDATA[Product title in LV language]]></title-lv>
  <!-- [#] Product title in EE language -->
- <title-ee><Telefoniümbris Iphone X Xs Löögikindel Defenderi kaanekaitse></title-ee>
+ <title-ee><![CDATA[Product title in EE language]]></title-ee>
  <!-- [#] Product title in FI language -->
- <title-fi><Puhelinkotelo Iphone X Xs Iskunkestävälle Defender Cover -suojalle></title-fi>
+ <title-fi><![CDATA[Product title in FI language]]></title-fi>
  <!-- [#] Long description LT language, can be with HTML -->
  <long-description><![CDATA[<div>
 <div><span>Long description, can be with HTML</span><br /></div>
